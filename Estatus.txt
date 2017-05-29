@@ -1,0 +1,73 @@
+*************************************************************************
+Pagina del libro PAG: 23
+*************************************************************************
+
+tortoisesvn repository browser
+
+
+*************************************************************************
+
+**IBM**
+Email: josehdz3321@gmail.com
+Pass: escuelahernandez1A
+
+*************************************************************************
+	Usuario de REDMINE
+Información sobre su cuenta:
+•	Identificador: jhernandez
+•	Contraseña: hNZLkGtKeg
+Iniciar sesión: http://cecoaching.com.mx/redmine/login
+
+
+*************************************************************************
+URL servicenter para aplicar SONAR.
+
+http://cecoaching.com.mx/svn/coachingfs/fuentes/trunk/Servicenter/Supernet2007
+
+*************************************************************************
+*************************************************************************
+
+*************************************************************************
+*************************************************************************
+*************************************************************************
+*************************************************************************
+
+*************************************************************************
+
+
+
+
+
+//////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////
+Con respecto al usuario administrador del 
+servidor pidemelo cuanto estes en este 
+paso para revisarlo en conjunto.
+
+Una vez termines, procederemos a 
+automatizar un EAR en Jenkins:
+
+2.8 Automatizar publicación de aplicación SuperNet:
+
+	a. Configurar repositorio para bajar código desde svn.
+	b. Aplicar reglas de sonar.
+	c. Publicar versión en websphere.
+
+
+Instala Tortoise svn en tu equipo Windows 
+para configurar el repositorio de fabrica.
+
+Por favor revisa si en tu Linux tienes el 
+cliente svn, en caso contrario instalar la
+ultima versión.
+
+La versión del SuperNet que vamos a automatizar
+es: SuperNetReingenieriaAfiliaciónLogin
+
+Favor de crear manual y subirlo al repositorio
+de fabrica.
+/////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////
+ProyectoEAR.mybluemix.net
