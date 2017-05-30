@@ -1,0 +1,7 @@
+public class Coche(){
+	private int id;
+	private String Marrca;
+	private String Color;
+	private String Modelo;
+	private int velMax;
+}
