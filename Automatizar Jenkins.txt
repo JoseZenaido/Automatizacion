@@ -5,3 +5,7 @@ public class Coche(){
 	private String Modelo;
 	private int velMax;
 }
+
+public Coche(){
+
+}
