@@ -1,11 +1,15 @@
 public class Coche(){
 	private int id;
-	private String Marrca;
+	private String Marca;
 	private String Color;
 	private String Modelo;
 	private int velMax;
 }
 
-public Coche(){
-
+public Coche(int id,String Marca, String Color,String Modelo,String velMax){
+	this.id=id;
+	this.Marca=Marca;
+	this.Color=Color.
+	this.Modelo=Modelo.
+	this.velMax=velMax;
 }
