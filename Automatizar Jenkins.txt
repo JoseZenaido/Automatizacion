@@ -13,3 +13,8 @@ public Coche(int id,String Marca, String Color,String Modelo,String velMax){
 	this.Modelo=Modelo.
 	this.velMax=velMax;
 }
+
+
+public getId(){
+
+}
